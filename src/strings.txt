@@ -1,0 +1,11 @@
+SCREENSAVER_PROXIMITY
+	EN	Proximity Action
+
+SCREENSAVER_PROXIMITY_NEAR
+	EN	Don't touch me!\n(range=%s)
+
+SCREENSAVER_PROXIMITY_AWAY
+	EN	I'm lonely...\n(range=%s)
+
+SCREENSAVER_PROXIMITY_UNSUPPORTED
+	EN	You can't touch me!
